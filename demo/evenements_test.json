@@ -1,0 +1,17 @@
+[ {
+  "id" : "C4",
+  "nom" : "Concert Test",
+  "date" : "2025-05-26T17:40:26.29003409",
+  "lieu" : "Douala",
+  "capaciteMax" : 100,
+  "participants" : [ ],
+  "artiste" : "Fally",
+  "genreMusical" : "Rumba"
+}, {
+  "id" : "F4",
+  "nom" : "Conf Test",
+  "date" : "2025-05-26T17:40:26.292615",
+  "lieu" : "Yaoundé",
+  "capaciteMax" : 50,
+  "participants" : [ ]
+} ]

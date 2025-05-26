@@ -1,0 +1,15 @@
+[ {
+  "id" : "C1",
+  "nom" : "Jazz Night",
+  "date" : "2025-05-26T16:26:49.642593181",
+  "lieu" : "Paris",
+  "capaciteMax" : 100,
+  "artiste" : "Youssou Ndour",
+  "genreMusical" : "Jazz"
+}, {
+  "id" : "F1",
+  "nom" : "AI Conf",
+  "date" : "2025-05-26T16:26:49.643792252",
+  "lieu" : "Yaoundé",
+  "capaciteMax" : 50
+} ]
